@@ -3,6 +3,8 @@ A free Simple, Minimalistic, Zen inspired responsive (looks beautiful on all typ
 
 This is what it looks like: <a href="https://richidubey.github.io" target="_blank">Live Demo</a>
 
+[Live Demo](https://richidubey.github.io){:target="_blank"}
+
 ## How to set up github pages for this theme
 1. Create a new github repository with the name '\<yourusername\>.github.io' with a README file - which would help you to clone it. For example, I would have to create a repository named 'richidubey​​.github.​io'. To find your user name, goto www.github.com and click your user profile in the top right corner of the page.
 2. Clone your repository on your machine.
