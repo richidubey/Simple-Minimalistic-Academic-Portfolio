@@ -17,7 +17,7 @@ Contributions are actively encouraged. Please suggest changes/improvements by su
 
 ## Currently in use by:
 
- - [Richi Dubey](https://richidubey.github.io/)
+ - [Richi Dubey](https://www.richidubey.com/)
  - [Nishanth Sanjeev](https://nishanthsanjeev.github.io/)
 
 
